@@ -4,4 +4,4 @@ Nim  : 09011282328054
 fakultas : Ilmu Komputer
 prodi    : Sistem Komputer
 Angkatan : 2023
-UAS PEMROGAMAN KOMPUTER
+SAYA SEDANG MENGERJAKAN UAS PEMROGAMAN KOMPUTER
